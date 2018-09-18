@@ -7,7 +7,6 @@ import { SearchBar } from 'react-native-elements'
 import HomeScreen from './components/HomeScreen';
 import ProfileScreen from './components/ProfileScreen';
 import DetailScreen from './components/DetailScreen'
-import InfoScreen from './components/InfoScreen'
 
 StatusBar.setHidden(true);
 
