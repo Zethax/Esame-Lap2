@@ -20,9 +20,7 @@ const Nav1= createStackNavigator({
   Details:{
     screen: DetailScreen
   },
-  Info:{
-    screen: InfoScreen
-  }
+  
 },
 )
 
